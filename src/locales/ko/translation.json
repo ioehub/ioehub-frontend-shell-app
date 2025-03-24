@@ -1,0 +1,10 @@
+// ---------------------------
+// shell-app/src/locales/ko/translation.json
+// ---------------------------
+{
+  "home": "홈",
+  "docs": "문서",
+  "login": "로그인",
+  "about": "소개",
+  "contact": "문의"
+}

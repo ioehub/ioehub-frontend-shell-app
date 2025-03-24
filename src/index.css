@@ -1,0 +1,9 @@
+// shell-app/src/index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: 글로벌 스타일 */
+body {
+  @apply bg-white text-gray-800;
+}

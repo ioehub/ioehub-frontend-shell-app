@@ -1,0 +1,10 @@
+// ---------------------------
+// shell-app/src/locales/en/translation.json
+// ---------------------------
+{
+  "home": "Home",
+  "docs": "Docs",
+  "login": "Login",
+  "about": "About",
+  "contact": "Contact"
+}
