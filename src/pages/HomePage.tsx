@@ -4,12 +4,16 @@
 import React from "react";
 import HeroSection from "../components/HeroSection";
 import FeatureSection from "../components/FeatureSection";
+import TrendingSection from "../components/TrendingSection";
+import MarketplaceSection from "../components/MarketplaceSection";
 
 export default function HomePage() {
   return (
     <main>
       <HeroSection />
       <FeatureSection />
+      <TrendingSection />
+      <MarketplaceSection />
       <section className="text-center py-12 bg-gray-100">
         <h2 className="text-2xl font-bold mb-4">Ready to get started?</h2>
         <p className="mb-6 text-gray-600">지금 바로 IoEHub에 접속하여 당신의 IoT와 AI를 연결해보세요.</p>
